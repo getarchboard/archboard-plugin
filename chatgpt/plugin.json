@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "archboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create, read and edit architecture, flow and ER diagrams on a live canvas shared with your team.",
   "author": {
     "name": "Halil Öncen",

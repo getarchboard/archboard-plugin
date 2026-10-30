@@ -3,7 +3,7 @@
   "name": "app.getarchboard/archboard",
   "title": "Archboard",
   "description": "Create, read and edit architecture, flow and ER diagrams on a live canvas shared with your team.",
-  "version": "1.60.2",
+  "version": "1.61.0",
   "websiteUrl": "https://getarchboard.app/ai-agents",
   "icons": [
     {

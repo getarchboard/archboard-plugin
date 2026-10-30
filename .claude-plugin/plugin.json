@@ -1,7 +1,7 @@
 {
   "name": "archboard",
   "displayName": "Archboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create, read and edit architecture, flow and ER diagrams on a live Archboard canvas, with a skill for the document format and layout rules.",
   "author": {
     "name": "Halil Öncen",
