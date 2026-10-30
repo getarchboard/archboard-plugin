@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "archboard": {
+      "type": "http",
+      "url": "https://getarchboard.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.getarchboard/archboard",
+  "title": "Archboard",
+  "description": "Create, read and edit architecture, flow and ER diagrams on a live canvas shared with your team.",
+  "version": "1.60.2",
+  "websiteUrl": "https://getarchboard.app/ai-agents",
+  "icons": [
+    {
+      "src": "https://getarchboard.app/brand/mark-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://getarchboard.app/brand/mark.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/getarchboard/archboard-plugin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://getarchboard.app/mcp"
+    }
+  ]
+}

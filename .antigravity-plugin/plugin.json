@@ -1,0 +1,22 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "archboard",
+  "displayName": "Archboard",
+  "version": "1.0.0",
+  "description": "Create, read and edit architecture, Kubernetes, C4, flowchart and ER diagrams on a live Archboard canvas that your team keeps editing.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Create an Archboard diagram of a checkout service with an API gateway, orders and payments services and a Postgres database",
+    "List my Archboard diagrams and summarize the most recently updated one",
+    "Draw the services in this repository and their dependencies as an Archboard architecture diagram"
+  ],
+  "author": {
+    "name": "Halil Öncen",
+    "email": "hello@getarchboard.app",
+    "url": "https://getarchboard.app"
+  },
+  "homepage": "https://getarchboard.app/ai-agents",
+  "repository": "https://github.com/getarchboard/archboard-plugin",
+  "license": "MIT",
+  "keywords": ["archboard", "diagram", "architecture", "kubernetes", "c4", "flowchart", "er-diagram", "mermaid"]
+}

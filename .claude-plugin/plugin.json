@@ -1,0 +1,20 @@
+{
+  "name": "archboard",
+  "displayName": "Archboard",
+  "version": "1.0.0",
+  "description": "Create, read and edit architecture, flow and ER diagrams on a live Archboard canvas, with a skill for the document format and layout rules.",
+  "author": {
+    "name": "Halil Öncen",
+    "email": "hello@getarchboard.app",
+    "url": "https://getarchboard.app"
+  },
+  "homepage": "https://getarchboard.app/ai-agents",
+  "repository": "https://github.com/getarchboard/archboard-plugin",
+  "license": "MIT",
+  "keywords": ["diagram", "architecture", "kubernetes", "c4", "flowchart", "er-diagram", "mermaid"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://getarchboard.app/docs/mcp",
+  "supportUrl": "https://getarchboard.app/support",
+  "privacyPolicyUrl": "https://getarchboard.app/privacy",
+  "termsOfServiceUrl": "https://getarchboard.app/terms"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "archboard",
+  "description": "Archboard for Claude Code: the Archboard MCP server for diagrams on a live canvas, plus a skill for its document format and layout rules.",
+  "owner": {
+    "name": "Halil Öncen",
+    "email": "hello@getarchboard.app",
+    "url": "https://getarchboard.app"
+  },
+  "plugins": [
+    {
+      "name": "archboard",
+      "source": "./",
+      "description": "Create, read and edit architecture, flow and ER diagrams on a live Archboard canvas, with a skill for the document format and layout rules."
+    }
+  ]
+}

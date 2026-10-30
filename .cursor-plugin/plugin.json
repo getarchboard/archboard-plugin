@@ -1,0 +1,15 @@
+{
+  "name": "archboard",
+  "displayName": "Archboard",
+  "version": "1.0.0",
+  "description": "Draw and edit architecture, Kubernetes, C4, flowchart and ER diagrams from your AI app. Changes appear live on a shared Archboard canvas that your team keeps editing.",
+  "author": {
+    "name": "Halil Öncen",
+    "email": "hello@getarchboard.app"
+  },
+  "homepage": "https://getarchboard.app/ai-agents",
+  "repository": "https://github.com/getarchboard/archboard-plugin",
+  "license": "MIT",
+  "keywords": ["archboard", "diagram", "architecture", "kubernetes", "c4", "flowchart", "er-diagram", "mermaid"],
+  "logo": "assets/logo.svg"
+}

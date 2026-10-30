@@ -1,0 +1,13 @@
+{
+  "name": "archboard",
+  "version": "1.0.0",
+  "description": "Draw and edit architecture, Kubernetes, C4, flowchart and ER diagrams from your AI app. Changes appear live on a shared Archboard canvas that your team keeps editing.",
+  "mcpServers": {
+    "archboard": {
+      "httpUrl": "https://getarchboard.app/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
